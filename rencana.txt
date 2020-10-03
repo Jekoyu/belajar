@@ -1,3 +1,8 @@
 Rencana Ke depan Untuk Pembelajaran
 - Belajar React.js
 - Belajar Arduino
+- Belajar yii
+
+Rencana Project 
+- Membuat Sistem Absensi Siswa Online
+-
